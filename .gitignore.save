@@ -65,14 +65,4 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
-Pods/*
-!Podfile.lock
-.idea/
-.DS_Store
-/.irb-history
-/screenshot_*.png
-*.ipa
-fastlane/report.xml
-*.dSYM.zip
-*.cer
-*.mobileprovision
+/Users/quantagonista/WORK/projects/CryptoChecker/CryptoChecker /Users/quantagonista/WORK/projects/CryptoChecker/CryptoChecker.xcodeproj /Users/quantagonista/W
